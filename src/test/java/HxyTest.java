@@ -7,5 +7,7 @@ import org.junit.Test;
  */
 public class HxyTest {
     @Test
-    public void show(){};
+    public void show(){
+        System.out.println();
+    };
 }
